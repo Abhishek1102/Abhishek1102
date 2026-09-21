@@ -2,12 +2,12 @@
 
 💻 **Turning ideas into apps people actually use.**
 
-🚀 Flutter & Native Android Developer
+🚀 Flutter & Kotlin Developer
 🧠 Clean Code • Creative Solutions • AI-powered workflows
 
 **Think → Build → Ship → Repeat.**
 
-### 🌐 Let's connect<br><br>[LinkedIn](YOUR_LINKEDIN) • [Portfolio](https://abhishek1102.github.io/abhishek-portfolio-collection/) • [GitHub](https://github.com/Abhishek1102)<br>
+### 🌐 Let's connect<br><br>[LinkedIn](https://www.linkedin.com/in/abhishek-panchmiya-88a8641b1/) • [Portfolio](https://abhishek1102.github.io/abhishek-portfolio-collection/) • [GitHub](https://github.com/Abhishek1102)<br>
 
 
 ## 🌐 Socials:

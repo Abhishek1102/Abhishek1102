@@ -1,5 +1,13 @@
-# 💫 About Me:
-# 👋 Hey, I'm Abhishek Panchmiya<br><br>### 🚀 Mobile Developer | Flutter & Android<br><br>I build **mobile apps that solve real problems**, not just demos.<br><br>💙 **Flutter** for cross-platform experiences<br>🤖 **Kotlin & Android** for native performance<br>🔥 **Firebase** for scalable app backends<br>🧩 Clean Architecture • MVVM • REST APIs • WebSockets<br><br>I've worked on **e-commerce, social, business, and AI-powered apps** — from the first line of code to Play Store deployment.<br><br>### 🛠️ What I enjoy<br><br>* Turning ideas into production-ready apps<br>* Designing clean & maintainable architectures<br>* Building smooth, user-friendly experiences<br>* Exploring new technologies and developer tools<br>* Using AI to build smarter, faster — without compromising code quality<br><br>> **I don't just write code. I build products.**<br><br>📌 Currently exploring **better ways to build, ship, and scale mobile apps.**<br><br>### 🌐 Let's connect<br><br>[LinkedIn](YOUR_LINKEDIN) • [Portfolio](https://abhishek1102.github.io/abhishek-portfolio-collection/) • [GitHub](https://github.com/Abhishek1102)<br>
+# 👋 Hey, I'm Abhishek
+
+💻 **Turning ideas into apps people actually use.**
+
+🚀 Flutter & Android Developer
+🧠 Clean Code • Creative Solutions • AI-powered workflows
+
+**Think → Build → Ship → Repeat.**
+
+### 🌐 Let's connect<br><br>[LinkedIn](YOUR_LINKEDIN) • [Portfolio](https://abhishek1102.github.io/abhishek-portfolio-collection/) • [GitHub](https://github.com/Abhishek1102)<br>
 
 
 ## 🌐 Socials:
